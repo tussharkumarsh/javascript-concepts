@@ -123,3 +123,28 @@ let num25 = 7.12
 let ans10 =  + num23 + num24  + num25;
 
 console.log('Answer is ' + (ans10));
+
+
+
+/////////////////////////////////////////////////////////
+
+
+let num26 = 2;
+let num27 = true;
+
+let ans11 = num26 + num27;
+
+console.log('The Answer is: ' + ans11);
+
+
+/////////////////////////////////////////////////////////
+
+let num28 = 2;
+let num29 = false;
+
+let ans12 = num28 + num29;
+
+console.log('The Answer is: ' + ans12);
+
+
+/////////////////////////////////////////////////////////
