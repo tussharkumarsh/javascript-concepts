@@ -74,12 +74,13 @@ console.log('The total is: ' + ans6);
 
 // 7. Addition with both string
 
-let num15 = '4';
+let aa= 3
+let num15 = 4;
 let num16 = '5';
 
-let ans7 = Number(num15) + num16;
+let ans7 = aa + num15 + num16;
 
-console.log('The total is: ' + ans7);
+console.log('7 The total is: ' + ans7);
 
 
 /////////////////////////////////////////////////////////
