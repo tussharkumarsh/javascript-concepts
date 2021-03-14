@@ -1,0 +1,34 @@
+let num1 = 12.94;
+
+console.log('1. The Answer is: ' + Math.floor(num1));
+
+/////////////////////////////////////////////////////////
+
+
+let num2 = 12.14;
+
+console.log('2. The Answer is: ' + Math.floor(num2));
+
+/////////////////////////////////////////////////////////
+
+
+let num3 = 12;
+
+console.log('3. The Answer is: ' + Math.floor(num3));
+
+/////////////////////////////////////////////////////////
+
+
+let num4 = -12.54;
+
+console.log('4. The Answer is: ' + Math.floor(num4));
+
+/////////////////////////////////////////////////////////
+
+
+let num5 = -12.94;
+
+console.log('5. The Answer is: ' + Math.floor(num5));
+
+/////////////////////////////////////////////////////////
+
