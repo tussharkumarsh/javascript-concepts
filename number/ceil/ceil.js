@@ -1,0 +1,53 @@
+let num1 = .94;
+
+console.log('1. The Answer is: ' + Math.ceil(num1));
+
+/////////////////////////////////////////////////////////
+
+
+let num2 = 51;
+
+console.log('2. The Answer is: ' + Math.ceil(num2));
+
+/////////////////////////////////////////////////////////
+
+
+let num3 = 51.54;
+
+console.log('3. The Answer is: ' + Math.ceil(num3));
+
+/////////////////////////////////////////////////////////
+
+
+let num33 = 51.44;
+
+console.log('3.3 The Answer is: ' + Math.ceil(num33));
+
+/////////////////////////////////////////////////////////
+
+let num4 = -51.54;
+
+console.log('4. The Answer is: ' + Math.ceil(num4));
+
+/////////////////////////////////////////////////////////
+
+
+let num5 = -0.54;
+
+console.log('5. The Answer is: ' + Math.ceil(num5));
+
+/////////////////////////////////////////////////////////
+
+
+let num6 = -54;
+
+console.log('6. The Answer is: ' + Math.ceil(num6));
+
+/////////////////////////////////////////////////////////
+
+
+let num7 = -54.2541;
+
+console.log('7. The Answer is: ' + Math.ceil(num7));
+
+/////////////////////////////////////////////////////////
